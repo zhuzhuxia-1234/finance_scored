@@ -1,1 +1,1 @@
-# score-function
+基于贷后数据的行为评分卡
