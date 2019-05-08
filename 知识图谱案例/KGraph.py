@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed May  8 16:37:37 2019
-
+参考文献： https://github.com/Skyellbin/neo4j-python-pandas-py2neo-v3
 @author: zhuxibing
 """
 
