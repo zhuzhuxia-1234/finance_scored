@@ -4,4 +4,4 @@ DataToNeo4j文件是把处理好的三元数组形式的数据转化为建立知
 
 KGraph通过data_extraction和relation_extraction两个函数，把dataframe形式的数据转为三元数组
 
-neo4j_matrix是将知识图谱中数据抽取转化为矩阵，为机器学习模型提供数据（有错误，待改正，但是思路是对的）
+neo4j_matrix是将知识图谱中数据抽取转化为矩阵，为机器学习模型提供数据
