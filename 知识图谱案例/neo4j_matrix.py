@@ -181,5 +181,5 @@ class Neo4jToMatrix(object):
 
 
 if __name__ == '__main__':
-    data_neo4j = Neo4jToMatrix('发票名称', '山东增值税电子普通发票')
+    data_neo4j = Neo4jToMatrix( '山东增值税电子普通发票','发票名称')
     print(data_neo4j.sub_to_sub())
