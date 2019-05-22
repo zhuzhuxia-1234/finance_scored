@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from datetime import timedelta
 import numpy as np
 
-data=pd.read_csv('C:/Users/zhuxibing/Desktop/cyclical_series_predict-master/data/api_access_fix.csv')
+data=pd.read_csv('C:/Users/zhuxibing/Desktop/api_access_fix.csv')
 
 print('size:',data.shape)
 print(data.head())
